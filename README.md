@@ -2,7 +2,7 @@
 
     🖥️ Junior CS major @ JMU (Go Dukes!)
     🛠️ Skills: Java, Python, JS, HTML/CSS, Linux, Git
-    🎵 Projects: Spotify Most Playd Displayer.
+    🎵 Projects: Spotify Most Played Displayer.
     📫 haider.alabbasi03@gmail.com
 
 <!---
